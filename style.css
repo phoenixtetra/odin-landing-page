@@ -140,3 +140,31 @@ button {
   text-align: right;
   margin-right: 48px;
 }
+
+.callout-container {
+  background-color: #3882F6;
+  display: flex;
+  margin: 130px 300px;
+  padding: 68px 150px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.callout-title {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+
+.callout-subtext {
+  font-size: 24px;
+  color: white;
+  font-weight: 300;
+}
+
+.callout-container button {
+  width: 160px;
+  height: 48px;
+  border: 3px solid white;
+}

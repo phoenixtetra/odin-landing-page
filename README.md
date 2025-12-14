@@ -4,7 +4,7 @@ The current project is creating an entire web page from a design TOP has provide
 # Skills
 The following skills are needed in order to complete the project:
 - Basic HTML elements such as containers, lists, links, buttons.
-- Basic CSS such as styling the colors, fonts, sizes, margins, paddings, borders.
+- Basic CSS such as working with colors, fonts, sizes, margins, paddings, borders.
 - Flexbox.
 
 # About

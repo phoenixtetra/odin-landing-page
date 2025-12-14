@@ -118,3 +118,25 @@ button {
   margin-top: 8px;
   font-size: 22px;
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  background-color: #E5E7EB;
+  padding: 160px 430px;
+}
+
+.quote-text {
+  font-size: 48px;
+  font-style: italic;
+  color: #1F2937;
+  font-weight: 300;
+}
+
+.author {
+  font-size: 30px;
+  color: #1F2937;
+  font-weight: 900;
+  text-align: right;
+  margin-right: 48px;
+}

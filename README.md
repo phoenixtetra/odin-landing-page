@@ -8,4 +8,4 @@ The following skills are needed in order to complete the project:
 - Flexbox.
 
 # About
-This project is part of [The Odin Project](https://www.theodinproject.com/)'s foundation course. You can find the link to the corresponding lesson [here](https://www.theodinproject.com/lessons/foundations-foundations-landing-page).
+This project is part of [The Odin Project](https://www.theodinproject.com/)'s foundation course. You can find the link to the corresponding lesson [here](https://www.theodinproject.com/lessons/foundations-landing-page).
